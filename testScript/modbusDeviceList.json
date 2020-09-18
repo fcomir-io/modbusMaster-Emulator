@@ -1,0 +1,58 @@
+[
+    {
+        "host": "localhost",
+        "port": 11503,
+        "data": [
+            {
+                "type": "coil",
+                "address": 3520
+            },
+            {
+                "type": "register",
+                "address": 3020
+            }
+        ]
+    },
+    {
+        "host": "localhost",
+        "port": 11504,
+        "data": [
+            {
+                "type": "coil",
+                "address": 4520
+            },
+            {
+                "type": "register",
+                "address": 4020
+            }
+        ]
+    },
+    {
+        "host": "localhost",
+        "port": 11505,
+        "data": [
+            {
+                "type": "coil",
+                "address": 5520
+            },
+            {
+                "type": "register",
+                "address": 5020
+            }
+        ]
+    },
+    {
+        "host": "localhost",
+        "port": 11506,
+        "data": [
+            {
+                "type": "coil",
+                "address": 6520
+            },
+            {
+                "type": "register",
+                "address": 6020
+            }
+        ]
+    }
+]
